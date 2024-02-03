@@ -4,7 +4,7 @@ main()
 	char ans;
 	int total=0;
 	printf("\t\t\t\t\t\tWelcome to the multiple choice question!");
-	
+	\\ q-1---------------------
 	printf("\n\n1.Name the National fruit of India?");
 	printf("\nA.Mango");
 	printf("\nB.Orange");
@@ -51,7 +51,7 @@ main()
 					case'D':printf("Correct Answer!");
 					total++;
 					//Q-4-------------------
-					    printf("\n\n.Which continent is known as the ‘Dark’ continent?");
+					    printf("\n\n.Which continent is known as the â€˜Darkâ€™ continent?");
 						printf("\nA.China");
 						printf("\nB.Tibet");
 						printf("\nC.Africa");
@@ -114,6 +114,7 @@ main()
 		default:printf("Invalid value");break;
 		
 	}
+	\\ total score 
 	printf("Total Score=%d/5",total);
 	
 }

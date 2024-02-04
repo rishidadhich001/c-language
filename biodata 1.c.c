@@ -2,7 +2,7 @@
 #include<conio.h>
 
 main()
-{ //bio data 
+{       //bio data 
 	printf("Name:Rishi Dadhich\n");
 	printf("Date of Birth:01-09-2003\n");
 	printf("Place of Birth:Surat\n");
